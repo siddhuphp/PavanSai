@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /config/
+Disallow: /tools/
+Disallow: /requirement_docs/
+Disallow: /contact.php
+# Add Sitemap: https://YOUR-DOMAIN/sitemap.xml when the live domain is known.

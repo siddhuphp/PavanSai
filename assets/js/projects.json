@@ -1,0 +1,65 @@
+[
+  {
+    "id": "gear-pair",
+    "title": "Gear pair",
+    "category": "Mechanical",
+    "file": "GEAR PAIR SAMPLE DWG.pdf",
+    "description": "Gear geometry, sectional views and component dimensions.",
+    "pages": 1,
+    "size": 244
+  },
+  {
+    "id": "screw-conveyor",
+    "title": "Screw conveyor assembly",
+    "category": "Mechanical",
+    "file": "SAMPLE 1.pdf",
+    "description": "Assembly views and component detailing for a screw conveyor.",
+    "pages": 1,
+    "size": 160
+  },
+  {
+    "id": "abrasive-hopper",
+    "title": "Abrasive storage hopper",
+    "category": "Mechanical",
+    "file": "SAMPLE 2.pdf",
+    "description": "Fabrication details, sectional views and a material schedule.",
+    "pages": 1,
+    "size": 175
+  },
+  {
+    "id": "blast-cabinet",
+    "title": "Blast housing cabinet",
+    "category": "Mechanical",
+    "file": "SAMPLE 3.pdf",
+    "description": "Equipment fabrication drawing with elevations and sections.",
+    "pages": 1,
+    "size": 258
+  },
+  {
+    "id": "drive-gearbox",
+    "title": "Drive gearbox assembly",
+    "category": "Mechanical",
+    "file": "SAMPLE 4.pdf",
+    "description": "Assembly and sectional views for a conveyor drive gearbox.",
+    "pages": 1,
+    "size": 297
+  },
+  {
+    "id": "sprocket",
+    "title": "Sprocket details",
+    "category": "Mechanical",
+    "file": "SPROCKET.pdf",
+    "description": "Sprocket tooth profiles, dimensions and machining details.",
+    "pages": 1,
+    "size": 58
+  },
+  {
+    "id": "structural-shed",
+    "title": "Structural shed",
+    "category": "Structural",
+    "file": "STRL-SAMPLE-DWG.pdf",
+    "description": "Roof plan at purlin level and structural shed cladding elevation.",
+    "pages": 1,
+    "size": 247
+  }
+]

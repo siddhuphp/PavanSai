@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+tools/sessions/
+tools/chrome-profile/
+tools/chrome-review/
